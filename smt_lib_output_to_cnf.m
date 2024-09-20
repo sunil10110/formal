@@ -1,6 +1,6 @@
 % Matlab script to take in z3 tseitin tactic output and convert to CNF
 
-fname = 'C:\Users\ssudhakaran\OneDrive - NVIDIA Corporation\Documents (1)\ga10x\bringup\mta_all_cnf_hdcheck_030124.txt';
+fname = 'C:\Users\XXX\OneDrive - NVIDIA Corporation\Documents (1)\ga10x\bringup\mta_all_cnf_hdcheck_030124.txt';
 fid = fopen(fname);
 M = [];
 fid1 = fopen('C:\Dell\mta_all_cnf_hdcheck_030124_v2.cnf','w');
